@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For DYByteBuffer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DYByteBuffer KEYWORD1 DYByteBuffer
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+put KEYWORD2
+puts KEYWORD2
+putInFront KEYWORD2
+puts_P KEYWORD2
+get KEYWORD2
+gets KEYWORD2
+getFromBack KEYWORD2
+getsToString KEYWORD2
+init KEYWORD2
+deAllocate KEYWORD2
+clear KEYWORD2
+clearBeforAt KEYWORD2
+getSize KEYWORD2
+getCapacity KEYWORD2
+peek KEYWORD2
+isFull KEYWORD2
+description KEYWORD2
+storeState KEYWORD2
+restoreState KEYWORD2
+strstr	KEYWORD2
+strstr_P	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
